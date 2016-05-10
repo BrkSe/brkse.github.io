@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PrimeFaces
-category: Java
+categories: [Java]
 ---
 
 
