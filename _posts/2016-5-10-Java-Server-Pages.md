@@ -100,7 +100,7 @@ title: Java Server Pages
 
 **38) [JSP Kullanıcının Dil ve Ülke Bilgisini Bulmak](http://blog.burakkutbay.com/java-server-pages-kullanicinin-dil-ve-ulke-bilgisini-bulmak.html/ "JSP Kullanıcının Dil ve Ülke Bilgisini Bulmak")**
 
-**39) ****[JSP CheckBox Kullanımı](http://blog.burakkutbay.com/jsp-checkbox-kullanimi.html/ "JSP CheckBox Kullanımı")**
+**39) [JSP CheckBox Kullanımı](http://blog.burakkutbay.com/jsp-checkbox-kullanimi.html/ "JSP CheckBox Kullanımı")**
 
 **40) [JSP’de Dizi Kullanımı](http://blog.burakkutbay.com/jspde-dizi-kullanimi-java-server-pages.html/ "JSP’de Dizi Kullanımı")**
 
@@ -120,7 +120,7 @@ title: Java Server Pages
 
 **48) [JSP Request.getContextPath( ) Metodu](http://blog.burakkutbay.com/jsp-request-getcontextpath-metodu.html/ "JSP Request.getContextPath( ) Metodu")**
 
-**49) [JSP Session Bilgileri Okumak](http://blog.burakkutbay.com/jsp-session-bilgileri-okumak.html/ "JSP Session Bilgileri Okumak") **
+**49) [JSP Session Bilgileri Okumak](http://blog.burakkutbay.com/jsp-session-bilgileri-okumak.html/ "JSP Session Bilgileri Okumak")**
 
 **50) [JSP String Birleştirme](http://blog.burakkutbay.com/jsp-string-birlestirme.html/ "JSP String Birleştirme")**
 
