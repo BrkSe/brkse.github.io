@@ -8,7 +8,7 @@ permalink: /java/
 ### Kategorilere ait yazılar
 
 
-{% for category in site.categories.java %}
+{% for category in site.categories %}
   <li>
     <ul>
     {% for posts in category %}
