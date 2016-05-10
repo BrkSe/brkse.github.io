@@ -10,6 +10,7 @@ permalink: /java/
 
 
 
-{% for post in site.categories[java] %}
+
+{% for post in site.categories.java %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
