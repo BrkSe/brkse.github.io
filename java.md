@@ -1,9 +1,14 @@
 ---
-layout: default
+layout: page
+title: Burak - Java
+permalink: /java/
 ---
 
-<div class="posts">
-  {% for category in site.categories %}
+
+### Java diline ait yazılar
+
+
+{% for category in site.categories %}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
     {% for posts in category %}
@@ -14,5 +19,3 @@ layout: default
     </ul>
   </li>
 {% endfor %}
-  
-</div>
