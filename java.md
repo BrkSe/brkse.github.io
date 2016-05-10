@@ -18,5 +18,5 @@ permalink: /java/
     {% endfor %}
     </ul>
   </li>
-
+{% endfor %}
 
