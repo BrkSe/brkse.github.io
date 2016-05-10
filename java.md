@@ -7,7 +7,9 @@ permalink: /java/
 
 ### Java diline ait yazılar
 
-{% for post in site.categories[category_name] %}
-    <li>{{ post.title }}</li>
-{% endfor %}
 
+
+
+{% for post in site.categories[java] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
