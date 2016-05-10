@@ -6,7 +6,7 @@ layout: default
 <h3>Yazdığım Dersler Listesi. Başlıklara tıklayıp içeriği görüntülebilirsiniz</h3>
   {% for post in site.posts %}
     <article class="post">
-      <i class="fa fa-arrow-right" aria-hidden="true"><h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1></i>
+      <i class="fa fa-arrow-right" aria-hidden="true"></i><h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
     </article>
   {% endfor %}
 </div>
