@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Java Server Pages
+category: Java
 ---
 
 **1 ) [JSP’ye Giriş – Java Server Pages Nedir?](http://blog.burakkutbay.com/jspye-giris-java-server-pages-nedir-ders-1.html/ "Permanent Link to JSP’ye Giriş –  Java Server Pages Nedir? – Ders 1")**

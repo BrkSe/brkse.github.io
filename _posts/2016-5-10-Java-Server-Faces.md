@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Java Server Faces
+category: Java
 ---
 
 
