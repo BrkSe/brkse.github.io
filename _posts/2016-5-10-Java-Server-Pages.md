@@ -3,8 +3,6 @@ layout: post
 title: Java Server Pages!
 ---
 
-#### JSP DERSLERİ![](http://i0.wp.com/blog.burakkutbay.com/wp-content/uploads/2012/02/jlo.jpg?resize=112%2C150 "jlo")
-
 **1 ) [JSP’ye Giriş – Java Server Pages Nedir?](http://blog.burakkutbay.com/jspye-giris-java-server-pages-nedir-ders-1.html/ "Permanent Link to JSP’ye Giriş –  Java Server Pages Nedir? – Ders 1")**
 
 **2 ) [Apache Tomcat Kurulumu ve Kullanımı](http://blog.burakkutbay.com/apcahe-tomcat-kurulumu-ve-kullanimi.html/ "Permanent Link to Apache Tomcat Kurulumu ve Kullanımı")**
