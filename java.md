@@ -8,8 +8,8 @@ permalink: /java/
 ### Java diline ait yazılar
 
 
-
-  <li>
+{% for category in site.categories.[java] %}
+  <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
     {% for posts in category %}
       {% for post in posts %}
