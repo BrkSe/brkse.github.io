@@ -5,7 +5,7 @@ permalink: /java/
 ---
 
 
-### Java diline ait yazılar
+### Kategorilere ait yazılar
 
 
 {% for category in site.categories %}
